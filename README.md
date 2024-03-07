@@ -1,1 +1,2 @@
 # mandelbrot
+# This is a very simple mandelbrot set generator. It relys on the SDL2 library to create the graphics, it takes in input for wasd to move the window around and the up-down keys to zoom-in and out. Keys can be changed easily by going to the corresponding switch case and changing the SDL_*key_name* to whatever key name you would prefer. EX. SDL_UP, SDL_w, etc. I want to work on optimizing the model, adding a help menu to display, a way to change colors while the program is running, etc.
